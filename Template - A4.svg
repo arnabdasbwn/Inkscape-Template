@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="Template - A4.svg">
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="715"
+     inkscape:window-width="1366"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="203.71224"
+     inkscape:cx="544.11502"
+     inkscape:zoom="0.24748737"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     units="mm" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-3.5258789e-5)" />
+  <g
+     gcodetools="Gcodetools orientation group"
+     id="g4384"
+     transform="translate(0,-3.5258789e-5)">
+    <g
+       gcodetools="Gcodetools orientation point (2 points)"
+       id="g4376">
+      <path
+         d="m 0,297 2.9375,-6.34375 0.8125,1.90625 6.843749,-6.84375 v 0 l 0.6875,0.6875 -6.8437504,6.84375 1.90625,0.8125 z"
+         gcodetools="Gcodetools orientation point arrow"
+         style="fill:#000000;stroke:none"
+         id="path4372"
+         inkscape:connector-curvature="0" />
+      <text
+         gcodetools="Gcodetools orientation point text"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;fill:#000000;fill-opacity:1;stroke:none"
+         x="10"
+         y="287"
+         xml:space="preserve"
+         id="text4374">(0.0; 0.0; 0.0)</text>
+    </g>
+    <g
+       gcodetools="Gcodetools orientation point (2 points)"
+       id="g4382">
+      <path
+         d="m 354.33071,297 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 v 0 l 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+         gcodetools="Gcodetools orientation point arrow"
+         style="fill:#000000;stroke:none"
+         id="path4378"
+         inkscape:connector-curvature="0" />
+      <text
+         gcodetools="Gcodetools orientation point text"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;fill:#000000;fill-opacity:1;stroke:none"
+         x="364.33072"
+         y="287"
+         xml:space="preserve"
+         id="text4380">(355.0; 0.0; 0.0)</text>
+    </g>
+  </g>
+  <defs
+     id="defs4413">
+    <marker
+       id="DrawCurveMarker"
+       orient="auto"
+       refX="-8"
+       refY="-2.41063"
+       style="overflow:visible">
+      <path
+         d="m -6.55552,-2.41063 v 0 L -13.11104,0 c 1.0473,-1.42323 1.04126,-3.37047 0,-4.82126"
+         style="fill:#000044;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4410"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <defs
+     id="defs4418">
+    <marker
+       id="DrawCurveMarker_r"
+       orient="auto"
+       refX="8"
+       refY="-2.41063"
+       style="overflow:visible">
+      <path
+         d="m 6.55552,-2.41063 v 0 L 13.11104,0 c -1.0473,-1.42323 -1.04126,-3.37047 0,-4.82126"
+         style="fill:#000044;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4415"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+</svg>
